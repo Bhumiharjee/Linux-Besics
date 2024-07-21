@@ -1,7 +1,7 @@
 # Linux-Besics
 LINUX Basics is a repository for foundational Linux knowledge. It includes tutorials on essential commands, practical scripts, and configuration tips. Ideal for beginners looking to enhance their Linux skills. Contributions and forks are welcome!
 
-ls
+ # **ls**
 Description: Lists directory contents.
 Use Case: Quickly view files and directories within a folder to navigate and manage them.
 
