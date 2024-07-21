@@ -1,82 +1,82 @@
 # Linux-Besics
 LINUX Basics is a repository for foundational Linux knowledge. It includes tutorials on essential commands, practical scripts, and configuration tips. Ideal for beginners looking to enhance their Linux skills. Contributions and forks are welcome!
 
- # **ls**
+ # ls
 Description: Lists directory contents.
 Use Case: Quickly view files and directories within a folder to navigate and manage them.
 
-cd
+# cd
 Description: Changes the current directory.
 Use Case: Navigate between directories in the file system.
 
-pwd
+# pwd
 Description: Prints the working directory.
 Use Case: Identify the current directory path you are working in.
 
-cp
+# cp
 Description: Copies files or directories.
 Use Case: Duplicate files or directories for backup or modification purposes.
 
-mv
+# mv
 Description: Moves or renames files or directories.
 Use Case: Organize files by moving them to different locations or rename files.
 
-rm
+# rm
 Description: Removes files or directories.
 Use Case: Delete unwanted files or directories. Use with caution to avoid accidental data loss.
 
-chmod
+# chmod
 Description: Changes file permissions.
 Use Case: Modify file access permissions to control who can read, write, or execute a file.
 
-chown
+# chown
 Description: Changes file ownership.
 Use Case: Update file owner and group to manage access rights.
 
-grep
+# grep
 Description: Searches for text in files.
 Use Case: Find specific strings or patterns within files, useful for log analysis.
 
-find
+# find
 Description: Searches for files and directories.
 Use Case: Locate files based on various criteria like name, type, or modification date.
 
-cat
+# cat
 Description: Concatenates and displays file contents.
 Use Case: View or combine files quickly; useful for reading log files.
 
-tail
+# tail
 Description: Displays the end of a file.
 Use Case: Monitor real-time updates in log files (e.g., tail -f /var/log/syslog).
 
-top
+# top
 Description: Displays system processes and resource usage.
 Use Case: Monitor system performance and identify resource-heavy processes.
 
-ps
+# ps
 Description: Displays information about active processes.
 Use Case: View currently running processes and their resource usage.
 
-docker
+# docker
 Description: Command-line tool for interacting with Docker containers.
 Use Case: Manage Docker containers and images, e.g., docker run, docker ps, docker-compose.
 
-kubectl
+# kubectl
 Description: Command-line tool for interacting with Kubernetes clusters.
 Use Case: Manage Kubernetes resources and deployments, e.g., kubectl get pods, kubectl apply -f.
 
-ssh
+# ssh
 Description: Securely connects to remote machines.
 Use Case: Access and manage remote servers securely.
 
-scp
+# scp
 Description: Securely copies files between hosts.
 Use Case: Transfer files between local and remote systems securely.
 
-tar
+# tar
 Description: Archives files and directories.
 Use Case: Create or extract compressed archive files, e.g., tar -czvf archive.tar.gz files.
 
-wget
+# wget
 Description: Downloads files from the web.
 Use Case: Retrieve files from URLs, useful for downloading scripts or data files.
